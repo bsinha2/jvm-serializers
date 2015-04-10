@@ -17,7 +17,7 @@ public class ProtoWar extends HttpServlet
   private ProtoServerHandler _handler = new ProtoServerHandler();
 
   /**
-  * Default Constructor.
+  * Default Constructor for this class.
   */
   public ProtoWar ()
   {
